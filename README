@@ -1,0 +1,5 @@
+
+Instructions to use the task command
+
+1. The command uses a mongo db as the backend, running on the same host, standard port 27017
+2. It uses the gopkg.in/mgo/v2 and the github.com/mitchellh/cli packages for the mongo driver and CLI respectively 
